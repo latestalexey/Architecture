@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_MP_2"
+    id="c773a3b2"
+    documentation="As a system administrator I need to be able to easily and efficiently measure all model performance against our standards in an automated process by retrieving observed and forecast data that has been archived (or by using information imported from an alternative database) so that information about model/forecast performance and accuracy can be used to drive future improvements."/>

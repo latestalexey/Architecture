@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Landing Data Access"
+    id="b87d53c3-f09b-444c-a8b9-e17d2d8e93ac"
+    documentation="Module allows interaction with the Landing area of the solution, whether this is BLOB,  SQL Azure DB or Azure Data Lake"/>

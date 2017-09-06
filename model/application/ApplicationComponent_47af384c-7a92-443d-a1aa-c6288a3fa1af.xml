@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Staging Data Access"
+    id="47af384c-7a92-443d-a1aa-c6288a3fa1af"
+    documentation="Module allows interaction with the Staging area of the solution, whether this is BLOB,  SQL Azure DB or Azure Data Lake"/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_MP_4"
+    id="cc8155e9"
+    documentation="As a system administrator I need the system to automatically re-process and update model performance statistics including when new forecast models are added or old ones recalibrated so that the statistics can be used to continuously improve model performance."/>

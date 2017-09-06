@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_TR_3"
+    id="8c19b112"
+    documentation="As a service manager I need the training environment to connect to other training systems that replicate their live environment counterparts so that incident management roles (such as forecasting duty officers and flood warning duty officers) can use forecasting information in their training and exercising purposes."/>

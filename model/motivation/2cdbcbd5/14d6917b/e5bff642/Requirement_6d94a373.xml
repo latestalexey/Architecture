@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_OF_2"
+    id="6d94a373"
+    documentation="As a forecasting duty officer I need to be able to create and configure displays of weather radar data (showing time stamp, duration, extent etc) and numerical weather model data into different visual formats (such as images, animations and statistics) so that they can be used to help understand weather products."/>

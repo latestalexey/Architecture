@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_AR_2"
+    id="83fac4d2"
+    documentation="As a forecasting duty officer I need to be able to access and visualise (e.g. data tables, graphs, maps) archived data immediately without Supplier intervention so that I can use historic data in my forecasts, in training exercises and for calculating model performance."/>

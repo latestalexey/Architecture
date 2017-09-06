@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flood Warning Duty Officer"
+    id="62c1f117"
+    documentation="Receives information from forecasting duty officers to help them determine whether to issue flood alerts/warnings using the Authority’s flood warning system (FFWS)."/>

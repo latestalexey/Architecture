@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bathing Water Quality (BWQS)"
+    id="66dbdf81"
+    documentation="1.1&#x9;A copy of the telemetry files are sent to BWQS (0.1 GB) and radar actuals and radar nowcast (1.0 GB)"/>

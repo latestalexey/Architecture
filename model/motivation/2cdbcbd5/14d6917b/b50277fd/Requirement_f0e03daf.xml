@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_2"
+    id="f0e03daf"
+    documentation="As a system administrator I need an overview (e.g. in dashboard style) of system components/servers that are active and for this to be separate from forecast summary information so that I can assess at a glance if there are any faults or issues with the system and backend components rather than the forecast information."/>

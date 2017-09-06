@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Data Access"
+    id="2e6bd5d1-671e-4162-8871-6003420b5d89"
+    documentation="Module allows interaction with the Master Data area of the solution in SQL Azure DB."/>

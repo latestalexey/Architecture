@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_10"
+    id="ad23adaa"
+    documentation="As a service manager I need our KPIs for performance and availability to be included in performance monitoring and reporting so that I can check that the performance criteria are being met."/>

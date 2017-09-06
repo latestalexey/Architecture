@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_16"
+    id="a5f97087"
+    documentation="As a system administrator I need to be able to configure and export reports that can access all KPI data held in the system (both current and historic) so that I can respond to management requests for KPI metrics and do trend analysis on those metrics."/>

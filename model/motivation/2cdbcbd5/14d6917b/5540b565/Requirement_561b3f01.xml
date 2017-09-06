@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FW_3"
+    id="561b3f01"
+    documentation="As a forecasting duty officer I need the system to import information from the Authority's flood warning system (FFWS) and display where and when flood alerts &amp; warnings have been issued together with any impact reports from affected locations (when appropriate and available) so that I can see where communities are at risk."/>

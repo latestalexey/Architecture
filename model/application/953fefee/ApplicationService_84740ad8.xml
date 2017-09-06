@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inundation and Impacts"
+    id="84740ad8"
+    documentation="a system which a system which allows users to run and view probabilistic forecasts using ensemble data and provide these forecasts to customers in real-time.allows users to run models in 2D and to view flood inundation areas and associated flood impacts, and to export this data both to other internal Authority systems and to external customers/systems."/>

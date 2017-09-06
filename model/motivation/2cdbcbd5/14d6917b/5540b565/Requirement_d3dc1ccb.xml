@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FW_4"
+    id="d3dc1ccb"
+    documentation="As a forecasting duty officer I need the system to automatically compare forecast threshold exceedence and whether a flood alert/warning has been issued by consuming relevant information from the Authority's flood warning system (FFWS) so that I can see if flood warning duty officers have acted on my forecast(s)."/>

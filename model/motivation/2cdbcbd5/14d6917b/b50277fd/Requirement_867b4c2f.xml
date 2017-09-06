@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_4"
+    id="867b4c2f"
+    documentation="As a system administrator I need an overview of where there are problems in the system such as failure of system components, data quality issues etc so that I can investigate these areas more thoroughly."/>

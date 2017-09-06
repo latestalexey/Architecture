@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_EN_4"
+    id="cba64224"
+    documentation="As a service manager I need a system that is easily scalable for our future capacity needs (e.g. 3D modelling) and for the scaling to be based on a 'pay as you go' approach so that new techniques or forecasting science can be added in the future at a minimal cost."/>

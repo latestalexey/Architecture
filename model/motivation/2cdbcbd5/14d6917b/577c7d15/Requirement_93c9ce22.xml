@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CN_16"
+    id="93c9ce22"
+    documentation="As a system administrator I need to be easily able to bring into the system standalone model configurations that have been developed elsewhere so that I can test and incorporate these new/improved models into the set of models that we use."/>

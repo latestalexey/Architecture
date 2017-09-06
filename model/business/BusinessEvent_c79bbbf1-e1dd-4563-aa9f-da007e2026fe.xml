@@ -1,0 +1,5 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Met Office data services"
+    id="c79bbbf1-e1dd-4563-aa9f-da007e2026fe"
+    documentation="Data inputs from a variety of hydrometeorological sources are received on a scheduled basis and are automatically imported into the system. Some of the imported data is in the form of documents (which go into the Met Office’s Hazard Manager as well as the ‘NFFS Webservice’)."/>

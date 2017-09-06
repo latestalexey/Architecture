@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_AR_1"
+    id="35dbc85f"
+    documentation="As a forecasting duty officer I need to automatically archive information in a single location which is easy to search for, pull back and use in real-time, and have the ability to retrieve/recreate forecasts as they were at the time they were imported or run (including information archived in the current system) so that I can obtain this information quickly and efficiently for training and post-incident reporting and include it as contextual information in forecasts."/>

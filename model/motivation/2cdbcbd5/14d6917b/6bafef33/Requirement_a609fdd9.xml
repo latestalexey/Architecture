@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_22"
+    id="a609fdd9"
+    documentation="As a forecasting duty officer I need to be able to pass both completed and outstanding actions to the next shift so that we ensure that key actions are handed over and are not missed."/>

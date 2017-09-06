@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_CN_3"
+    id="2ad02c2c"
+    documentation="As a system administrator I need to be able to access as much of the system infrastructure as possible and make back end changes (e.g. system configuration changes) so that we can help detect, diagnose and resolve issues."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_7"
+    id="6c3f94fd"
+    documentation="As a forecasting duty officer I need to be able to easily compare consecutive forecasts at the same location using different inputs, select my final forecast and add comments to it so that I can compare how forecasts vary over time using different inputs, communicate my decision on the best forecast to others and use it in post event analysis."/>

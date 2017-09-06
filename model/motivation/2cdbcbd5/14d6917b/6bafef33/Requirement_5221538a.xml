@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_28"
+    id="5221538a"
+    documentation="As a forecasting duty officer I need to be able to view pre-configured legends, or create and save user defined legends ad hoc in the system, so that I can easily identify all data visualised in the system."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetaData Access"
+    id="b0c3db8f-e335-4643-8613-dda9bd49695e"
+    documentation="Module allows interaction with the Staging area of the solution in SQL Azure DB."/>

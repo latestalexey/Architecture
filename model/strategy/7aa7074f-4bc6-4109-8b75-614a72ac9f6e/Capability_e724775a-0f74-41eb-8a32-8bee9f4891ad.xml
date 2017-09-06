@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Information Services"
+    id="e724775a-0f74-41eb-8a32-8bee9f4891ad"
+    documentation="Services that provide required information into operational business processes within the organisation (e.g. Customer Marketing) or externally to customers and other stakeholders via API’s."/>

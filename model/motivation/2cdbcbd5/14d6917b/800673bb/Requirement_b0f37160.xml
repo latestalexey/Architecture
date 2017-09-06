@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CF_3"
+    id="b0f37160"
+    documentation="As a forecasting duty officer I need to be able to view and create clear concise information on a map regarding the current situation and the outlook for the future based on threshold crossings (configurable in shorter and longer lead times) so that I can get an instant situational awareness of the current/forecast incident and then distribute the information to others to help them manage an incident."/>

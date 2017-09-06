@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_RM_3"
+    id="d13bf56f"
+    documentation="As a forecasting duty officer I need to run 'what if' scenarios using different parameters, ensemble member(s) and models (e.g. double forecast rain, add more surge / wave height to a forecast, alter gate settings) so that I can assess catchment/coastline sensitivity to changes in forecast meteorology in relation to local operational activities and communicate the impact of differing conditions."/>

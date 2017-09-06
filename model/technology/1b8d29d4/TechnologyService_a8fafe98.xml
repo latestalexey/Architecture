@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core Forecasting System"
+    id="a8fafe98"
+    documentation="This will be responsible for the actual generation of the forecasts. Forecasts will need to be able to be scheduled as detailed within our functional user needs.  The Modelling packages should be kept standardised and run on the new system as defined in our User needs (see Responses to Tender section). The Model Execution Workflow should be flexible and allow for the configuration of ensemble and what-if scenarios. "/>

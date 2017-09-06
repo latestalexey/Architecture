@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FI_4"
+    id="bbe852b2"
+    documentation="As a system administrator I need to use the available input data in a configurable order (e.g. gridded data, if available, before radar and radar data, if available, before rainfall) so that forecasts use the best data available."/>

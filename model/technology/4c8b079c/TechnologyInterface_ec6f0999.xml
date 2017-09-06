@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Access APIs"
+    id="ec6f0999"
+    documentation="These should be able to present data in an open and accessible format. This should allow other related systems to access the data that they need to access without requesting additional changes to the forecasting system or a custom data extract to be generated.   Data that is viewable to the end user should be delivered in such a way as to make full use of the delivered APIs rather than interrogating the data directly; this is to maintain the principles of being “loosely coupled”."/>

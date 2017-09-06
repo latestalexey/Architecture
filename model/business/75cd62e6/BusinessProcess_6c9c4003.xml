@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="9 - Archive Everything"
+    id="6c9c4003"
+    documentation="Except for observed and forecast radar data, all Authority observed data is archived in WISKI and NFFS, with NFFS post-processed forecast data only archived in the NFFS system. HYRAD archives both observed and forecast data from the Met Office."/>

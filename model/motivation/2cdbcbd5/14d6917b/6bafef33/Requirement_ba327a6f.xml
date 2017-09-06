@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_5"
+    id="ba327a6f"
+    documentation="As a forecasting duty officer I need to be able to forecast at local site specific gauging locations and also forecast using gridded forecast models so that I can provide forecasts across the country including those areas that have no observations."/>

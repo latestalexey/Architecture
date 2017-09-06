@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_GN_2"
+    id="63a2122c"
+    documentation="As a service manager I need users to be able to log in and start work immediately on forecasts (where data and configurations that are held centrally are immediately available and are completely up to date) so that they can avoid delays caused by technological constraints such as distributed data and the need for data synchronisation."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telemetry (all regions) "
+    id="062f8149"
+    documentation="0.1&#x9;Telemetry data from regional telemetry systems, providing real time flow, and level information input into models."/>

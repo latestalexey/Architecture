@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_EN_8"
+    id="7cfcf085"
+    documentation="As a system administrator I need to be able to access all systems and environments through an appropriate user interface so that I can help detect, diagnose and resolve issues relating to system performance."/>

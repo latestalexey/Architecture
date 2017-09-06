@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_13"
+    id="f0bfa21d"
+    documentation="As a system administrator I need to be able to use information which shows forecasting duty officer use of the system and the priority actions that were generated for them (or added by them) during an incident so that I can create reports that show forecasting duty officer activity during an incident."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_ST_8"
+    id="d3d8c832"
+    documentation="As a service manager I need any code developed specifically for the FFFS system to be open, reusable and published under the appropriate Open Government licence(s) so that the code can be made available to other developers."/>

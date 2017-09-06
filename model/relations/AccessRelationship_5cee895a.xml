@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="6 - Telemetry Alarm Raised?"
+    id="5cee895a"
+    documentation="Observed or forecast data may trigger the telemetry system to generate an alarm if a threshold has been exceeded. The telemetry alarm data will change the behaviour of the telemetry device (e.g. poll at a higher frequency) and a notification will be sent to a pre-configured duty officer.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_0b9fcc88.xml#0b9fcc88"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_c040715b.xml#c040715b"/>
+</archimate:AccessRelationship>

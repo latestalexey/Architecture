@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_UN_6"
+    id="bdf87789"
+    documentation="As a service manager I need the system to automatically archive observed data in the Authority system and forecast data in the supplier system and have the ability to pull raw or post-processed data from these systems into the forecasting system directly so that the raw and post-processed observed data can be held in the most appropriate location and be available to the forecasting system."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FO_12"
+    id="5e7f95ff"
+    documentation="As a forecasting duty officer I need a system that automatically creates observed and forecast information that is compliant with open data standards and then exports this as data and/or documents to other Authority and external systems so that forecast information can be shared with others in a timely and efficient manner (e.g. internal customers and partners who use Resilience Direct) and systems can consume and respond to the forecast data (e.g. trigger alarms in the Authority's telemetry system)."/>

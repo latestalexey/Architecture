@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytics &amp; Advanced Analysis"
+    id="3c72a742-cdaa-4600-a5cb-92e0b7cb71cb"
+    documentation="Primarily ad hoc querying of large data sets, with complex queries. Specialist tools used by small number of specialist users."/>

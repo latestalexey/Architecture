@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_8"
+    id="3c3343a4"
+    documentation="As a system administrator I need to be able to start and stop processes and components within the system and have direct links to the components so that I can carry out proactive monitoring and troubleshooting on the system."/>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="e23bd45a">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_77c5e53d.xml#77c5e53d"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_7a667a6a.xml#7a667a6a"/>
+</archimate:ServingRelationship>

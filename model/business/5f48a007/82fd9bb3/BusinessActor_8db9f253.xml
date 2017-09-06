@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bathing Water Modeller"
+    id="8db9f253"
+    documentation="Uses the system to create accurate forecasts of bathing water quality and to distribute this information to beach managers and the general public."/>

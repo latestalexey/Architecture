@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_MI_2"
+    id="695cd832"
+    documentation="As a forecasting duty officer I need to be able to view and use forecast data created and manipulated by others (e.g. FFC hydrometeorologists) as inputs to my forecasts so that I can run different scenarios."/>

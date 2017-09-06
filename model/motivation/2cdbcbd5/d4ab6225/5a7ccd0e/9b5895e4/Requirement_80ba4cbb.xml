@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_EN_11"
+    id="80ba4cbb"
+    documentation="As a system administrator I need system components and all 'at rest' data to be sited within the European Economic Area so that we are compliant with the EU Data Protection Directive."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_BU_5"
+    id="bcd697af"
+    documentation="As a system administrator I need all data backups to be disposed of in a secure method (to be agreed with the Authority) at the end of the retention period so that data backups that are no longer required are dealt with appropriately."/>

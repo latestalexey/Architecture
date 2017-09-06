@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_7"
+    id="6eb950b2"
+    documentation="As a service manager I need a system that is at least as responsive in peak demand periods as it is in quiet periods so that we ensure quality of service during large scale events."/>

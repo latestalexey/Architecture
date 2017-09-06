@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_7"
+    id="22afb40a"
+    documentation="As a system administrator I need to be able to see summary information on the overall status of the system components, system resources and capacity and system errors and for the system to automatically alert me to issues and errors so that I can actively monitor the health of the system and be alerted to problems as they arise."/>

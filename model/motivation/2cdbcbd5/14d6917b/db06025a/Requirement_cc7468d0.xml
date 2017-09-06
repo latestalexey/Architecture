@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FO_10"
+    id="cc7468d0"
+    documentation="As a forecasting duty officer I need to be able to export and supply data to external parties so that they can implement new models and techniques on our behalf."/>

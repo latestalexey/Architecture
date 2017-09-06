@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FI_5"
+    id="7ce93c56"
+    documentation="As a forecasting duty officer I need the system to tell me which observed data appears suspect based on business rules and parameters so that I can understand the reliability of the observed data and decide on whether to use it in my forecasts."/>

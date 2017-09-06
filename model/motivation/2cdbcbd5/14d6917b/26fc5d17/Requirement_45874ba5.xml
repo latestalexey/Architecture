@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_IM_1"
+    id="45874ba5"
+    documentation="As an incident manager I need to be able to see a national/catchment/coastal zone/Local Resilience Forum overview (e.g. in dashboard style) of incident management information (such as river levels increasing/decreasing, historical context, observed and forecast rainfall, thresholds that have been or are likely to be exceeded, flood warnings issued, properties impacted, assets operational or deployed etc) so that I can get a quick understanding of the severity, impact and progression of ongoing incident(s)."/>

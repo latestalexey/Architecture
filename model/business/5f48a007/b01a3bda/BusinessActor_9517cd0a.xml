@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incident Manager"
+    id="9517cd0a"
+    documentation="Uses the system to get an overview and detail of any ongoing incidents. The term applies to staff at both strategic and responder levels."/>

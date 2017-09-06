@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_18"
+    id="6cad23bc"
+    documentation="As a forecasting duty officer I need the system to automatically query historic and contextual information from previous incidents (including archived data) that are relevant to my current forecast, but also have the ability to run manual queries, and to create graphical displays using this information, so that I can use historical information as part of my assessment and provide this information to others."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_EN_1"
+    id="4c006ebb"
+    documentation="As a system administrator I need the system to support the numbers of staff who use the current forecasting system (see numbers and roles in 'User Numbers') so that the system will be able to meet the performance needs of staff who provide the forecasting service."/>

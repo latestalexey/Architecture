@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Training "
+    id="ec30fff8"
+    documentation="a system which provides a training environment to users that recreates events as they were in real-time."/>

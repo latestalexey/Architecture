@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administration"
+    id="b128d833"
+    documentation="a system which allows system administrators to monitor activities being carried out and the health of the system and to manage it in line with the Authority’s needs."/>

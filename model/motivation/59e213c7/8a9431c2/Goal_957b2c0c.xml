@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Non-Critical"
+    id="957b2c0c"
+    documentation="Availability (per calendar month)&#xD;&#xA;99.95% (21.56 minutes per month)&#xD;&#xA;Reliability&#xD;&#xA;2 unplanned outages per year&#xD;&#xA;Recovery Time Objective&#xD;&#xA;Service RTO: 2 hours&#xD;&#xA;Support Desk&#xD;&#xA;8:00am – 5:30pm Monday to Friday, 52 weeks per year excluding national holidays&#xD;&#xA;Incident Priorities&#xD;&#xA;Total Failure = Priority 2&#xD;&#xA;Partial Failure = Priority 3&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_MI_1"
+    id="45fe4cd4"
+    documentation="As a forecasting duty officer I need be able to control, edit and select each of the inputs into forecasting models (e.g. modify the data hierarchy) so that I can remove what I think are erroneous inputs, highlight them for further investigation and use the most appropriate inputs at that chosen time."/>

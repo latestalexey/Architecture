@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FI_2"
+    id="e4eee948"
+    documentation="As a forecasting duty officer I need to be able to import data from telemetry and non-telemetry sources that are located anywhere in the UK, its off-shore waters and Europe so that my forecasts are not limited by national boundaries."/>

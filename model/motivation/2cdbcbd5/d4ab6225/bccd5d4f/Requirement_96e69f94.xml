@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_SC_2"
+    id="96e69f94"
+    documentation="As a security lead I need to see how the Supplier manages access control and limits who will access data held in the system both physically and remotely so that users only get the features or data that they need to use."/>

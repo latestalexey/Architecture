@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forecasting Outputs"
+    id="fda45df8"
+    documentation="a system which produces reports and forecasts for users and customers in real-time, is open data compliant and allows data, reports and forecasts to be shared openly with systems/applications that are both internal and external to the Authority."/>

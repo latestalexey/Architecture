@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_ST_11"
+    id="88f06331"
+    documentation="As a service manager I need the Supplier to use the Ordnance Survey’s AddressBase Premium as their addressing solution and store the standard national Unique Property Reference Number for each address so that the system uses the same addressing approach as the Authority's warning system (FFWS) and meets the corporate Addressing Data Standard (Ref 16)."/>

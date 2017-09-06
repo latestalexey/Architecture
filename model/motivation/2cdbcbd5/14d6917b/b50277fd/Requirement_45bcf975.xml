@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_12"
+    id="45bcf975"
+    documentation="As a system administrator I need to be able to use information which shows data quality and whether it was available when scheduled so that I can create reports which show the quality of the input data over time."/>

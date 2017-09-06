@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CN_10"
+    id="5cbe5d23"
+    documentation="As a system administrator I need to be able to easily add new sources of input to the system (e.g. open data) so that data from these sources can be imported and viewed in the system, and used in models (where appropriate) with minimal involvement of the supplier."/>

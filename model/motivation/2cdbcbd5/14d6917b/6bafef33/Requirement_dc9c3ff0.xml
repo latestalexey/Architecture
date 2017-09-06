@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_19"
+    id="dc9c3ff0"
+    documentation="As a forecasting duty officer I need the system to automatically add a prioritised action list based on the situation and the key steps in the forecasting duty officer procedures (that have been determined by the Authority and pre-configured as actions needing to be completed) so that the required actions can be efficiently recorded, monitored, managed and completed using a risk based approach."/>

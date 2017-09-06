@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_SC_6"
+    id="87b90e6a"
+    documentation="As a security lead I need to see that personal data held in the system is necessary and proportionate to the need to use it so that personal data isn't held unnecessarily in the system."/>

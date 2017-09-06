@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_PP_4"
+    id="eef6e6f3"
+    documentation="As a service manager I need all passwords for generic and third party accounts to meet the criteria set out in the 'Generic and Third Party Accounts' section of the Authority's Password Policy (Ref 1) so that I am compliant with the Authority's Password Policy."/>

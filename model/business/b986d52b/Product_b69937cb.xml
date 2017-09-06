@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NFFS"
+    id="b69937cb"
+    documentation="The Authority’s current system for flood forecasting. It consists of 7 regional instances and a separate instance for the Flood Forecasting Centre. There are also separate instances that manage modelling for bathing water quality and for groundwater management."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_1"
+    id="5d74f802"
+    documentation="As a service manager I need to be able to allocate a service package to each element of the forecasting service (see ‘Example Service Levels’ for the service packages and elements of the forecasting service) so that the level of service that is provided by the Supplier to the Authority is based on the criticality of the service element (e.g. the Critical Package for all flood forecasting activities)."/>

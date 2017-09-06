@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RESTful APIs"
+    id="3fe71381"
+    documentation="Representational State Transfer (REST) is a software architecture style for building scalable web services.&#xD;&#xA;An API (Application Programming Interface) expresses a software component in terms of its operations, inputs, outputs, and underlying types.&#xD;&#xA;&#xD;&#xA;RESTful APIs conform to the constraints imposed by the REST architectural style by following four basic design principles: use HTTP methods explicitly, be stateless, expose directory structure-like URIs and transfer XML, JavaScript Object Notation (JSON) or both&#xD;&#xA;"/>

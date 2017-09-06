@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Batch Data Imports"
+    id="dcda3d75"
+    documentation="These will be needed to maintain compatibility with legacy systems which still feed in data via batch file transfer. "/>

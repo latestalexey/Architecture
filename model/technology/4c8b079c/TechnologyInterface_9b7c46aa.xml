@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Input APIs (Future)"
+    id="9b7c46aa"
+    documentation="These should be used in preference as this ensures that there is as little delay as possible between the data being sent in to the system and it being available for a forecast."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_UN_5"
+    id="4dafe106"
+    documentation="As a service manager I need the system to automatically archive information in an Authority system (currently WISKI) and have the ability to pull raw or post-processed data into the forecasting system directly so that all raw and post-processed observed data can be held in a central place and be available to the forecasting system."/>

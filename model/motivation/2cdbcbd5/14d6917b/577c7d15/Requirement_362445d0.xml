@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CN_11"
+    id="362445d0"
+    documentation="As a system administrator I need to be able to configure report templates that can be automatically populated with observed and forecast information from the system so that forecasters can be released to add value in other ways."/>

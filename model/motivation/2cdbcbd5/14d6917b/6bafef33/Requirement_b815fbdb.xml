@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_10"
+    id="b815fbdb"
+    documentation="As a forecasting duty officer I need to be able to see an interactive map (that scales from national overview to sub catchment) which shows where thresholds are forecast to be crossed and when thresholds have already been crossed so that I can get an instant situational awareness of the forecast incident and focus on where in the country the current concern is."/>

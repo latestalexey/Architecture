@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CF_5"
+    id="ccd2c9cf"
+    documentation="As a system administrator I need to be able to choose which products can be published automatically and which need validation by others (e.g. forecasting duty officer), based on pre-defined configurable rules, so that the appropriate level of scrutiny is applied to our products before they are made available to others."/>

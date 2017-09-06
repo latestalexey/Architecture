@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_ST_3"
+    id="4cf104b6"
+    documentation="As a service manager I need each system component to meet the W3C Web Content Accessibility Guidelines (WCAG) conformance level AA, the latest guidelines are known as WCAG 2.0 (Ref 4), so that the system and the services it provides are compliant with the GDS policy on accessibility."/>

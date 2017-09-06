@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_DR_1"
+    id="aa7df497"
+    documentation="As a system administrator I need the maximum time to recovery (RTO) to be 30 minutes or less following a complete system failure (see details of the Critical Package in the ’Example Service Levels’) so that we are able to provide continuous forecasting services in line with other critical services provided by the Authority."/>

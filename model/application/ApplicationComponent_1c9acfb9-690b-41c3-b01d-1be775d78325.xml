@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Presentation Data Access"
+    id="1c9acfb9-690b-41c3-b01d-1be775d78325"
+    documentation="Module allows interaction with the Presentation area of the solution, whether this is SQL Azure DB, SQL Data Warehouse or Azure Data Lake"/>

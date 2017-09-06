@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_II_13"
+    id="b6429e14"
+    documentation="As a service manager I need to be able to record and monitor the accuracy of inundation and impacts that we have forecast (e.g. accuracy of visual outputs, property counts, infrastructure etc) so that I can understand the overall accuracy of our communication to target audiences."/>

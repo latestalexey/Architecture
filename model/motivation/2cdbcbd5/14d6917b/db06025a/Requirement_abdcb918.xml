@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FO_7"
+    id="abdcb918"
+    documentation="As a system administrator I need to produce ad-hoc reports designed and configured by the service using different formats and visual methods so that I can communicate different elements of service performance (including business information and costs) to senior management."/>

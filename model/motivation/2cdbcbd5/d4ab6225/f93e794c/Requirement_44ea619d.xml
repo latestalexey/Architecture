@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_BU_2"
+    id="44ea619d"
+    documentation="As a system administrator I need to be able to restore, fully or partially, from the data backup taken for a system component so that the appropriate level of data restore can be used."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_DR_4"
+    id="d1a340a0"
+    documentation="As a system administrator I need a disaster recovery process that has been agreed between the Supplier and the Authority so that I can be assured that each party knows what its obligations are in the event of a disaster and that the Authority will be consulted during the process."/>

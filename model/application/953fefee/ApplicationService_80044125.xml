@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forecasting Inputs"
+    id="80044125"
+    documentation="a system which imports data from various sources so that it is immediately available for use in pre-defined orders (where appropriate) and which highlights data that appears erroneous."/>

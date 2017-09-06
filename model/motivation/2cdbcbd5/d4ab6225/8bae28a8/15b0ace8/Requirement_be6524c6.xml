@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_9"
+    id="be6524c6"
+    documentation="As a system administrator I need performance reporting to be available for all system components and include, but not be limited to, capacity and availability statistics so that I can assess the information against historic data and determine trends, peaks, troughs etc."/>

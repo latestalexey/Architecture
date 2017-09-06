@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_BU_7"
+    id="509aea3a"
+    documentation="As a system administrator I need all non-live environments to be backed up using the same approach taken for the live environment(s) but to have their own schedules so that all environments are backed up using a consistent approach and at an appropriate frequency."/>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control"
+    id="14afcff5-bdfc-4c19-928d-130653d7b9c1"
+    documentation="Primarily internal reporting of information associated with metadata connected with the management and control of the information environment. &#xD;&#xA;The Control component includes information on Data Quality Management, Data Lineage, Audit reports, data processing, as well as Data Definitions, design documentation etc.&#xD;&#xA;"/>

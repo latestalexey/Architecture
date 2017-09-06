@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_ST_2"
+    id="7a23d2e0"
+    documentation="As a service manager I need each system component to operate correctly on the GDS list of supported browsers and devices (Ref 3) and to automatically create forecast information that is optimised for these browsers and devices so that I can access the forecasting system from work or home."/>

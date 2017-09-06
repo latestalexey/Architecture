@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DR Data Processing"
+    id="c58471b1"
+    documentation="This is represented here as one logical component but it may be satisfied by a number of different systems such as a Hydrometric Archive for Telemetry, and Code Versioning Repository for the Model Configurations. "/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_GN_6"
+    id="f903b77e"
+    documentation="As a system administrator I need the system to show both GMT and BST and have the ability to set up all forecasting products to show both the date and time (local time, GMT or BST) so that there is no confusion as to the time that the forecast relates to."/>

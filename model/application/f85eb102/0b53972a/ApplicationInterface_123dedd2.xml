@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Webservice products"
+    id="123dedd2"
+    documentation="Webservice products (e.g. Flood Guidance Statement, Hydromet Guidance, Forecast Met Data, Heavy Rainfall Alert, Wind Alert)&#x9;&#xD;&#xA;&#xD;&#xA;3.0MB (0.003GB)&#x9;&#xD;&#xA;&#xD;&#xA;Met Office products (PDF or Excel) highlighting flooding situation, rainfall forecasts, tidal alerts, heavy rainfall alerts, etc. &#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_AD_2"
+    id="ac35bd5a"
+    documentation="As a system administrator I need a good, clear error reporting and debugging capability so that problems can be quickly diagnosed and passed to the appropriate problem owner for resolution and root cause analysis."/>

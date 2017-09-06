@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grid-to-Grid"
+    id="d600c657"
+    documentation="The Grid-to-Grid hydrological model is a tool developed by the Centre for Ecology and Hydrology (CEH) for translating rainfall into river flows to predict potential river flooding. The model is configured on a 1km2 grid and can take better account of the location and intensity of rainfall forecast by high-resolution weather models, thereby allowing for targeted river flood warnings."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CN_17"
+    id="2cf97c0f"
+    documentation="As a system administrator I need to be able to easily remove or redact sensitive information (such as the real world location of a public water supply borehole) from a standalone configuration that I am exporting to a third party so that this information doesn't fall into the wrong hands."/>

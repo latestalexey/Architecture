@@ -1,0 +1,5 @@
+<archimate:ApplicationInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OAuth"
+    id="0d93ba69"
+    documentation="An open standard for authorization commonly used as a way for Internet users to log into third party websites using their Microsoft, Google, Facebook or Twitter accounts without exposing their password."/>

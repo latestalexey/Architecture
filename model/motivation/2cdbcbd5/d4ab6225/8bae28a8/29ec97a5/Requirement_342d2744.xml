@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_14"
+    id="342d2744"
+    documentation="As a system administrator I need to know what the maximum data latency is for each component of the live environment and any replication of it so that I can check that future data latency falls within this limit."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_5"
+    id="cc3b4b68"
+    documentation="As a system administrator I need to be able to access current and historic information on the number of concurrent users on the system and their activity so that I can determine how this affects the overall performance of the system."/>

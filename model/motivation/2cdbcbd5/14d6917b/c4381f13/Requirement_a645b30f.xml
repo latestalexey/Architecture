@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_MI_3"
+    id="a645b30f"
+    documentation="As a forecasting duty officer I need to be able to compare data from different sources within the same geographical extent (e.g. rain gauge and radar rainfall data) so that I can identify and edit/remove data that looks doubtful and create a more accurate forecast."/>

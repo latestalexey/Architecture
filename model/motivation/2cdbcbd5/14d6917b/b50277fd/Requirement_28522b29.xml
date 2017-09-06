@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_11"
+    id="28522b29"
+    documentation="As a system administrator I need to be able to use information which reflects system performance and availability along with the scale of any incident which took place so that I can create reports that show how the system has performed over time."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_PP_3"
+    id="3bae389f"
+    documentation="As a service manager I need all passwords to meet the criteria set out in the section for 'Non-administrative accounts for access to Confidentiality IL0 to IL2 password rules' of the Authority's Password Policy (Ref 1) so that I am compliant with the Authority's Password Policy."/>

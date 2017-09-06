@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flood Warnings"
+    id="655c8ec8"
+    documentation="a system which communicates with the Authority’s flood warning system (FFWS) to initiate automated flood warnings, to populate flood warning scripts and to enable users to see where flood alerts and warnings have been issued."/>

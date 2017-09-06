@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AR_1"
+    id="0bcc0d6f"
+    documentation="As a service manager I need archived datasets to be retained according to the defined retention period (which is configurable and is set on a per dataset basis in agreement with Authority data custodian) so that I am compliant with the Authority's policies on the retention of archived data."/>

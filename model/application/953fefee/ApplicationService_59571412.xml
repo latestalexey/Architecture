@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Communicating Forecasts"
+    id="59571412"
+    documentation="a system that automatically creates tailored forecast and summary information that is communicated to a variety of users, both internal and external."/>

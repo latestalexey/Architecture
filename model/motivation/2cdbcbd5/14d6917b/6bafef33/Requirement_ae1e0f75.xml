@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_3"
+    id="ae1e0f75"
+    documentation="As a forecasting duty officer I need the system to allow custom playback periods, playback speeds and pause/dwell between sequences without the backend configuration needing to be changed so that I can create custom visualisations of all time-series/gridded data, whether historic or current."/>

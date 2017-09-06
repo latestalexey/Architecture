@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_AD_1"
+    id="e20884f2"
+    documentation="As a system administrator I need to be able to easily add new geographical information (e.g. catchments or point locations) using standard GIS files so that I can incorporate this information into the system."/>

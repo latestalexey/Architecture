@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_OF_10"
+    id="8f30d0b1"
+    documentation="As a water resources modeller I need to configure, run and view a variety of water resource models (based on 'Models we currently use') over daily and sub daily time-steps with varying periods of record (days to decades) so that I can feed this information into the other systems that I use."/>

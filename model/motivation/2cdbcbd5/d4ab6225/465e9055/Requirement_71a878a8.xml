@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AU_3"
+    id="71a878a8"
+    documentation="As a service manager I need audit logs to be uneditable so that I can be confident that audit logs contain all changes that have been made to data which we have defined as auditable."/>

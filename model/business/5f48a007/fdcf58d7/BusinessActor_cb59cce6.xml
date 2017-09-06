@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flood Forecasting Duty Officer"
+    id="cb59cce6"
+    documentation="Uses the system to validate data inputs, select and run models and interpret the results. Uses the results to create targeted flood forecast products across various geographical extents. Works closely with flood warning duty officers to determine the probability and impact of flooding. This user role also covers many elements of other forecasting roles within the Authority such as Bathing Water, Groundwater, and Water Resources."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Service"
+    id="5fc3ab64-1035-41a7-87e8-b349302e40c1"
+    documentation="This Business Services subsystem contains the components known as the Functional Modules.  These modules implement the business rules and logic that fulfil the required business processes of FFFS.&#xD;&#xA;&#xD;&#xA;Each Functional Module shown in the Functional Decomposition diagram will implement all the necessary Business Interactions for that Functional Module.&#xD;&#xA;"/>

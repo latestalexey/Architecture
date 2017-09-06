@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rainfall"
+    id="2bb09853"
+    documentation="Recorded rainfall data&#xD;&#xA;&#xD;&#xA;1.7gb per day&#x9;for rainfall forecast and actual and in addition to the wind/wave grids + MOSES data, all from the Met Office."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Model Performance"
+    id="c7896cc9"
+    documentation="a system which automatically monitors model and forecasting service performance in both real-time and in historical context that can be used to add perspective when providing forecasts."/>

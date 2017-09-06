@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_DR_6"
+    id="2f5cb903"
+    documentation="As a system administrator I need the Supplier to provide a full report of the results of the annual disaster recovery test and correct any shortfalls so that I can see how long it took the service to be restored, what amount of data processing was lost and what impacts it had on forecasts."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_FC_3"
+    id="58b4ee35"
+    documentation="As a service manager I need system outputs provided through GOV.UK web pages to conform to GDS design patterns (Ref 9), service look and feel (Ref 10), page elements (Ref 11), standard header and footer element (Ref 12) and accessibility (Ref 13) so that the services provided to the general public are compliant with GDS standards."/>

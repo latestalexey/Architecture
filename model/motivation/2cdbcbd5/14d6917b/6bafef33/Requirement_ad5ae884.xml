@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_1"
+    id="ad5ae884"
+    documentation="As a forecasting duty officer I need to be able to view, process and manipulate multiple observations, forecasts (e.g. deterministic and probabilistic, including ensembles), rates, accumulations, and statistics, both real-time and historical, for any hydrometeorological data (e.g. precipitation, surge / wave height, evaporation, soil moisture, snow pack, wind, Grid-to-Grid data including offline calculated data) so that I can use, visualise and interrogate the data used in forecasting models (e.g. catchment average/max) and other areas of work."/>

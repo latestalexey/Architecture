@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FW_1"
+    id="e14eed03"
+    documentation="As a flood warning duty officer I need the forecasting system to automatically create and communicate information to the Authority's flood warning system (FFWS) so that predetermined flood alerts/warnings can be queued for approval or automatically issued."/>

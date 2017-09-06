@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Performance Optimisation"
+    id="4017d2ed-63c6-4e9d-87c7-17b9d447cfa2"
+    documentation="Facilitates access, navigation and performance of user querying of the data. For relational technologies data may be logical or physically structured in for example simple relational or dimensions forms as views or data marts.&#xD;&#xA;For non-relational data this layer contains one or more pools of data optimised for a specific analytical task.&#xD;&#xA;"/>

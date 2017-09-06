@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_26"
+    id="36164d83"
+    documentation="As a forecasting duty officer I need to be able to load in GIS shape files that are either pre-configured, or pulled in from outside the system ad hoc, so that I can create catchment averages and output time series of multiple catchments based on these shape files."/>

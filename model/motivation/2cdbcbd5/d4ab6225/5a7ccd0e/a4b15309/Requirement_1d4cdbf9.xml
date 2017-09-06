@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_EN_6"
+    id="1d4cdbf9"
+    documentation="As a system administrator I need system components in all environments to integrate with Authority legacy solutions, including telemetry and HYRAD (for archived data), so that the forecasting service can link with other systems that provide inputs to the system or receive outputs from it."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_17"
+    id="e8cf7792"
+    documentation="As a forecasting duty officer I need to access forecast information across different geographical areas (including where thresholds have been exceeded or are close to doing so) and drill down into more specific areas so that I can quickly get a view of the overall picture in a form that is consistent and concise at all levels (e.g. summary information, forecasts, warnings, stats) and can then concentrate on those areas that need my attention."/>

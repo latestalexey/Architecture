@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Reservoir"
+    id="c2ec1741-2f92-42fd-8945-2faeb1d23e29"
+    documentation="A read-only physical data store for unstructured and structured data. For unstructured data the data will be time variant and integrated. For structured data, data is subject orientated, non-volatile, Integrated and time variant. It is the primary store of cleansed, transformed and integrated current and historical data for an organisation."/>

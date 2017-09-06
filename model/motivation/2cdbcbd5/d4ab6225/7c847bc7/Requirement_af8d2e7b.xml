@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_DR_3"
+    id="af8d2e7b"
+    documentation="As a system administrator I need to know what is the maximum period that users might not have full system functionality in a complete system failure so that we can build this figure (known as the Maximum Tolerable Period of Disruption or MTPOD) into our business continuity plans."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_SC_1"
+    id="d8c16171"
+    documentation="As a security lead I need to see that the system is segregated from other customers (whether the system is cloud based or not) and that there are no components on shared infrastructure so that I can determine whether the system is adequately protected."/>

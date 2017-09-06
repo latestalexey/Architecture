@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_ST_7"
+    id="36ee517f"
+    documentation="As a service manager I need the system to expose standard application program interfaces (APIs) so that data can be passed into and out of the system to other Authority services and as open data."/>

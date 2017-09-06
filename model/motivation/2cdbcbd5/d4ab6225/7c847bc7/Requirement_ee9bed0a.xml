@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_DR_5"
+    id="ee9bed0a"
+    documentation="As a system administrator I need all components of the system to undergo disaster recovery testing annually (at least) at times to be agreed with the Authority so that I can be assured that the disaster recovery procedures work and that those involved know what actions to take."/>

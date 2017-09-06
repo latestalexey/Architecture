@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FO_9"
+    id="67685c9f"
+    documentation="As a forecasting duty officer I need to be able to export a variety of observed and forecast data and/or documents (e.g. extent, summary information, forecasts, warnings, inundation and impacts) that is related to a geographical area, which can be pre-defined or selected in real-time, so that I can pass the information on to a variety of sources (e.g. emergency responders, partners or the general public)."/>

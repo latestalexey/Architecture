@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FO_8"
+    id="72846983"
+    documentation="As a system administrator I need to produce system statistics during post-incident analysis (such as the number of forecasts that ran on a daily basis, the number of users logging into the system on certain days and the number of reports and products generated and viewed) so that I can see if the system is performing optimally, based on usage and load on the system (especially during flood incidents)."/>

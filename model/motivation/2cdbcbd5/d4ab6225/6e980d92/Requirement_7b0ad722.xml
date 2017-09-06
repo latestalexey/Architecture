@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_GN_3"
+    id="7b0ad722"
+    documentation="As a service manager I need the system login and performance to be as good when users are working remotely as when they are on a network in the office so that they can carry out their duty roles and work to the same standards wherever they are."/>

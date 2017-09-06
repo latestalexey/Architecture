@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_PP_2"
+    id="95386115"
+    documentation="As a service manager I need all passwords to meet the criteria set out in the 'Password Configuration' section of the Authority's Password Policy (Ref 1) so that I am compliant with the Authority's Password Policy."/>

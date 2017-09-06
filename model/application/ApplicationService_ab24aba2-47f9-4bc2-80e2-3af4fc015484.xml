@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Framework Services"
+    id="ab24aba2-47f9-4bc2-80e2-3af4fc015484"
+    documentation="This subsystem provides the core ‘internal plumbing’ components and services to FFFS.&#xD;&#xA;&#xD;&#xA;The services within the Framework are broadly divided into two key areas:&#xD;&#xA;&#xD;&#xA;Security&#xD;&#xA;Provides components to perform Functional Authorisation (what the user can do), and Data Authorisation (what data the user has access to)and) and Consolidated Authorisation (further authentication based upon ownership level, organisational sector of the user and Administration Level or the user)..&#xD;&#xA;&#xD;&#xA;Utility&#xD;&#xA;Provides utility services to support the Functional Modules."/>

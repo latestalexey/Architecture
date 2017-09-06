@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Quality"
+    id="28e5e1e4"
+    documentation="a system which automatically monitors its status, health and performance, allows users to manage faults, errors and system health and pro-actively troubleshoot problems as they arise."/>

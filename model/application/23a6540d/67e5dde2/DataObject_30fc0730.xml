@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storage 4 (Current)"
+    id="30fc0730"
+    documentation="265&#x9;&#xD;&#xA;&#xD;&#xA;NFFS Archive, metadata of saved forecast runs, containing time series data, threshold info, and configuration details."/>

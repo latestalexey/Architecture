@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CN_2"
+    id="ddf8434a"
+    documentation="As a system administrator I need to be able to logically partition the system in line with forecasting activities to be defined by the Authority (e.g. flood forecasting, low flow forecasting, bathing water forecasting, groundwater forecasting, air and water pollution forecasting, water abstraction forecasting) so that the activities of forecasters are separated and cannot negatively impact each other."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AU_1"
+    id="f3bbfacc"
+    documentation="As a service manager I need to be able to define which data within each system component is auditable so that the only data that is audited is the data that needs to be audited."/>

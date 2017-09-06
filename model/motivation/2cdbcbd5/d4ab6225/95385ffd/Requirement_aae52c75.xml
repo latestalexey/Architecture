@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_PP_5"
+    id="aae52c75"
+    documentation="As a service manager I need the system's access logs and audit trails to meet the criteria set out in the 'Access Logs and Audit Trails' section of the Authority's Password Policy (Ref 1) so that I am compliant with the Authority's Password Policy."/>

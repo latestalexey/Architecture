@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_11"
+    id="cc421a5b"
+    documentation="As a forecasting duty officer I need to automatically prioritise/sort/filter which locations to forecast for based on business rules such as risk, predicted impacts and stations exceeding thresholds (or are close to doing so) so that I can assess the overall situation and determine which areas require my attention."/>

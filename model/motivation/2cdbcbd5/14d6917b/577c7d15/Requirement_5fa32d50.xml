@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CN_18"
+    id="5fa32d50"
+    documentation="As a system administrator I need an interface that allows me to view, upload and edit both model and application related configurations (e.g. system patches, bug fixes etc) and that flags any errors in the configuration so that I can record and manage changes to the system and reduce the likelihood of those changes affecting the system adversely."/>

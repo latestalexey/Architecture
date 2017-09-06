@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FO_3"
+    id="0ab58cfa"
+    documentation="As a forecasting duty officer I need to be able to create different forecast outputs for a range of different audiences (e.g. flood warning duty officers, National Flood Forecasting Duty Manager) based on pre-defined templates so that the forecasts provide the right level of information for each target audience."/>

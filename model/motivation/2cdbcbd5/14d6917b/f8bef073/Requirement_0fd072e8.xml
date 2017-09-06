@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_PF_1"
+    id="0fd072e8"
+    documentation="As a forecasting duty officer I need to run and create probabilistic forecasts (using data such as ensembles) that show and explain, through automated analysis and the ability to add forecasting duty officer narrative, the uncertainties in the forecasts both at detailed and summary levels so that I can express my confidence in the forecasts to a variety of customers."/>

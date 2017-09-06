@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_EN_3"
+    id="96dc4cde"
+    documentation="As a system administrator I need the system to maintain normal performance when concurrently used by 25% of the users who use the current forecasting system (see 'User Numbers') so that during an event the system will be able to meet the performance needs of the users of the service."/>

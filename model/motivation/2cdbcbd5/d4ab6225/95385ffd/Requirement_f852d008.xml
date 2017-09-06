@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_PP_6"
+    id="f852d008"
+    documentation="As a service manager I need the system to provide a standards based interface for integrating authentication (e.g. SAML 2.0, LDAP, OAuth) for staff, generic and third party logons so that users are be able to automatically log in using their Authority credentials and be assigned the correct level of access for their role."/>

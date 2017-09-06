@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_4"
+    id="2fb19641"
+    documentation="As a system administrator I need to know how the Supplier measures performance and what level of performance their system can provide so that we can assess whether it meets the performance needs of the users of the service."/>

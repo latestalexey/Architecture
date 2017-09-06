@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_SC_3"
+    id="fe8c4c84"
+    documentation="As a security lead I need to know that all access to the system by Supplier staff is recorded and remains unchanged so that I can see who has accessed the system and when they did so."/>

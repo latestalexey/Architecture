@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_UN_2"
+    id="07fea977"
+    documentation="As a service manager I need the Supplier to link to an Authority system where forecasting products can be made available to both Authority staff and to external customers (partners, emergency responders and the general public) so that forecasting products can be controlled and made accessible to those who need different levels of information."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reservoir Data Access"
+    id="9049d809-32c4-46f0-b047-4c555df46a7b"
+    documentation="Module allows interaction with the Staging area of the solution, whether this is BLOB,  SQL Azure DB or Azure Data Lake"/>

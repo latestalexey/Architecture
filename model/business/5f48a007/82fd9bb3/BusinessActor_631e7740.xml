@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Low Flow Modeller"
+    id="631e7740"
+    documentation="Uses the system to manage activities for rivers that are not flood related e.g. River Severn Regulation and Thames River Control."/>

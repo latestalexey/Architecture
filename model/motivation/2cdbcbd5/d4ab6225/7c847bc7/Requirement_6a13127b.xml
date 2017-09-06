@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_DR_8"
+    id="6a13127b"
+    documentation="As a system administrator I need to be made aware of any changes to the Supplier's own IT disaster recovery and business continuity plans so that I can take the changes into account and update the Authority's business continuity plan for the forecasting service."/>

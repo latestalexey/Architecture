@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CF_4"
+    id="612a91f5"
+    documentation="As a forecasting duty officer I need the system to automatically gather and summarise observed information from a variety of different data types and from forecast information (e.g. forecast levels, forecast rainfall, forecast surge / wave height) so that this can be made available to others, both in the form of pre-defined reports, and as open data (where appropriate)."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Met Office Grids (Rainfall/MOSES)"
+    id="aa90f006"
+    documentation="1.7&#x9;Rainfall forecast and actual and in addition to the wind/wave grids, MOSES data all from the Met Office."/>

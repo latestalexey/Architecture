@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FI_3"
+    id="6bf53d96"
+    documentation="As a forecasting duty officer I need to be able to import data and documents from a variety of non-telemetry and third party (partner) sources (e.g. Met Office forecast and observation data, Surface Water Visualisation from the Met Office Hazard Impact model, the Channel Coast Observatory wave buoy dataset) so that we can visualise and use these inputs in our forecasting models and techniques."/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workflow Engine"
+    id="055e2a08"
+    documentation="The workflow engine could potentially satisfy a number of our User Needs.&#xD;&#xA;•&#x9;Provide an event driven model to flag events to the various duty officers to make sure they are seen.&#xD;&#xA;•&#x9;To capture actions taken in response to those events as part of an incident audit and reduce the need for logs to be kept manually or in different systems.&#xD;&#xA;•&#x9;To codify some of the standard rules about thresholds help to ensure consistency in the business processes.&#xD;&#xA;•&#x9;To codify additional rules about specific catchments to reduce the reliance on local knowledge and ensure consistency if different staff or centres have to provide cover.&#xD;&#xA;•&#x9;To automate the enrichment of a forecast by obtaining more information from other related systems e.g. retrieving inundation polygons, performing GIS queries to inform impacts of an event.&#xD;&#xA;"/>

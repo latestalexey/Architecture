@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_MP_6"
+    id="a9d1a27c"
+    documentation="As a forecasting duty officer I need the system to track model performance on a frequent basis and highlight current performance issues pertinent to operational forecasting so that I can consider this information when I am analysing the forecast."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FO_5"
+    id="9a2cb57e"
+    documentation="As a forecasting duty officer I need to be able to automatically and manually send/receive data to/from other systems according to defined business rules so that I can initiate activities in those other systems that will have a beneficial effect on the flood forecasting service."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_3"
+    id="9b612e6e"
+    documentation="As a service manager I need the Supplier approach to service level provision to be flexible so that the Authority can vary the contents of a service package and can add new elements of forecasting (or remove existing elements)."/>

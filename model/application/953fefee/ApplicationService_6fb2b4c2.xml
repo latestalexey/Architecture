@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Managing Inputs"
+    id="6fb2b4c2"
+    documentation="a system which allows data to be edited and compared so that inputs used in forecasts can be managed."/>

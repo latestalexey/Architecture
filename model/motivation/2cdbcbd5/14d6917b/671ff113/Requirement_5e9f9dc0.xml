@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_II_12"
+    id="5e9f9dc0"
+    documentation="As a forecasting duty officer I need to be able to define ‘uncertainty zones’ on maps that show the likely inundation and impact during an incident so that I can communicate this information to others."/>

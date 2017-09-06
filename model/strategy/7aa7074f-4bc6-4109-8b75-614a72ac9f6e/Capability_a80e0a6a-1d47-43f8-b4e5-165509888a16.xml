@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Performance Management"
+    id="a80e0a6a-1d47-43f8-b4e5-165509888a16"
+    documentation="Visually orientated regular reporting of performance information, with drill down, at all levels of the organisation. High user numbers, working with defined data sets, normally quite focussed around a small number of dimensional attributes (Slice and Dice)."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_CN_2"
+    id="8de9e10a"
+    documentation="As a system administrator I need a system that, as far as possible, allows the Authority to control changes to all parts of the system so that we can manage all changes, releases and new developments ourselves (especially where they require immediate resolution)."/>

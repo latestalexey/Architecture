@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_13"
+    id="ff1e403d"
+    documentation="As a system administrator I need to see that the methods by which continuous availability is maintained do not involve system components (or connections to main networks) that are a single point of failure so that they will not be impacted by the same catastrophic event (e.g. power outage, flooded buildings etc)."/>

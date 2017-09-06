@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CN_1"
+    id="7a011179"
+    documentation="As a system administrator I need to be able to logically partition the system in line with forecasting duty officer roles and resources (e.g. fluvial/coastal and/or geographical boundaries) and to be able to redefine the partitions with ease as roles and resources change in the future so that the system can be changed quickly to map to our ways of working."/>

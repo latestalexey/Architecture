@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_DR_7"
+    id="386aff6e"
+    documentation="As a system administrator I need to understand the Supplier's own IT disaster recovery and business continuity plans so that I can take these into account when creating the Authority's business continuity plan for the forecasting service."/>

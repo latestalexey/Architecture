@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_FC_1"
+    id="900e2e3b"
+    documentation="As a service manager I need services which are provided to the general public to be allocated an appropriate service package (see ‘Example Service Levels’) so that we are able to provide a responsive flood forecast service at all times."/>

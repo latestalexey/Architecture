@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_FC_7"
+    id="1f6c49b9"
+    documentation="As a service manager I need to be able to extend the system's forecasting capabilities to a wider geographical remit in the future so that the Authority can extend its service to other countries or territories in the future, if that need arises."/>

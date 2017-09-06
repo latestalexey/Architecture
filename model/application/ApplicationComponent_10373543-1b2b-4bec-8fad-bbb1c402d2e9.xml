@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Data Cache"
+    id="10373543-1b2b-4bec-8fad-bbb1c402d2e9"
+    documentation="This component provides a high performance cache for the application when accessing the User Data Stores. The cache is implemented as a session scoped cache."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_6"
+    id="dad20804"
+    documentation="As a system administrator I need a system that will automatically bring in more computing capacity when it is required (and make this increase in capacity visible to me) so that performance and availability can be increased during peak use of the system and for large scale events."/>

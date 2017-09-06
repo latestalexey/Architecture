@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_15"
+    id="a45df13d"
+    documentation="As a system administrator I need to have a forecasting capability that I can use if the main system is not available (and to know what its limitations are) so that in the event of a catastrophic system failure I have a contingency that allows me to continue to provide a reduced level of forecasting to internal staff and external customers."/>

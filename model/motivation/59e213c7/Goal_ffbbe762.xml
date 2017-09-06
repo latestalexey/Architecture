@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Response Time"
+    id="ffbbe762"
+    documentation="The time taken for an issue to be acknowledged by the supplier."/>

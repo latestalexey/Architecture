@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_EN_10"
+    id="6c97acb5"
+    documentation="As a system administrator I need to be able to quickly rebuild or clone an environment for others to test or use so that I only pay for environments as and when I actually need them (e.g. test or training/exercise environments)."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_CN_1"
+    id="752f8c1d"
+    documentation="As a system administrator I need a system structure that is highly configurable and which uses an open architecture so that we can add, upgrade and swap components easily and meet the future needs of our users with little or no development costs."/>

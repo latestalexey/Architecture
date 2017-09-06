@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CN_9"
+    id="35dc1f13"
+    documentation="As a system administrator I need to be able to configure an overview of high level forecast/system information for each role and/or location (e.g. in dashboard style) so that each role can get the level of summary information that is most appropriate to their needs."/>

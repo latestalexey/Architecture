@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_EF_6"
+    id="4efcec7a"
+    documentation="As a system administrator I need to be able to download error diagnostic information and for this same information to be automatically be visible to the Supplier so that I can engage with the relevant support function to resolve the error."/>

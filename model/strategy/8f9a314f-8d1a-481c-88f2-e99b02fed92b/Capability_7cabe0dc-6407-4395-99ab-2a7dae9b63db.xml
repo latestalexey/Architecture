@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archiving"
+    id="7cabe0dc-6407-4395-99ab-2a7dae9b63db"
+    documentation="Provides near online and offline storage of historic data, which can be retrieved within agreed SLA’s, to manage storage costs associated with online data repositories."/>

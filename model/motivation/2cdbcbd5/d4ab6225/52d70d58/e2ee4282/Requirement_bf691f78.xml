@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_ST_6"
+    id="bf691f78"
+    documentation="As a service manager I need the system to be able to read, create and revise documents according to GOV.UK guidance on 'Sharing or collaborating with government documents' (Ref 7) and the Open Document Format 1.2 standard (Ref 8) so that the system and the services it provides are compliant with GDS guidance on the formats that should be used for editable documents that can be shared with emergency responders, partners or the general public."/>

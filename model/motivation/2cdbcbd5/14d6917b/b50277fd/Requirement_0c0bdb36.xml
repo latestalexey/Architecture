@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_3"
+    id="0c0bdb36"
+    documentation="As a system administrator I need to see who is using the system, what they are doing, and how much capacity they are using so that I can log them off, if required, and free up system resources."/>

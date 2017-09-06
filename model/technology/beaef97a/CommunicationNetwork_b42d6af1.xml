@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="13 - Configuration Environments"
+    id="b42d6af1"
+    documentation="Configuration (and recalibration) of models is managed by the NFRS and Operational Resilience teams, who also manage the overall performance and health of the NFFS system. They work with providers to ensure that changes and upgrades are managed and implemented successfully."/>

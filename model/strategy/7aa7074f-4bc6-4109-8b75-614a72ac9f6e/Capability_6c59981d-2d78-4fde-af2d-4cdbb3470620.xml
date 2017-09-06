@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Search"
+    id="6c59981d-2d78-4fde-af2d-4cdbb3470620"
+    documentation="Capability to search semi and un-structured data sets to return results against the criteria set. Can be a separate capability alongside other information tools or embedded as part of other methods of information presentation."/>

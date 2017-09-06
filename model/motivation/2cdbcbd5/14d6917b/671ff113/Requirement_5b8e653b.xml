@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_II_10"
+    id="5b8e653b"
+    documentation="As a forecasting duty officer I need to be able to view inundation and impact information in the geographical area that I'm interested in rather than being restricted to pre-defined areas so that I can assess that information in relation to other information for that area (e.g. summary information, forecasts and warnings)."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_RM_8"
+    id="d9ad40eb"
+    documentation="As a system administrator I need to be able to pause/kill models or processes so that I can manage system resources."/>

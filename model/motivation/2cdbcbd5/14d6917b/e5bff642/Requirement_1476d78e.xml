@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_OF_6"
+    id="1476d78e"
+    documentation="As a groundwater modeller I need the system to be able to handle both spatial and temporal variation in data resolution so that the models configured onto the system are exactly the same as the standalone Modflow models provided by the US Geological Survey."/>

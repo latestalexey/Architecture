@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_8"
+    id="bae22e34"
+    documentation="As a service manager I need to know the extent to which the system and its network traffic is likely to impact on the Authority's network so that I can take necessary measures if the impact is likely to affect other systems or users."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archiving"
+    id="9d9b0da0"
+    documentation="a system which allows data to be archived in one place, including data archived in the current system, and that permits this data to be available immediately to users."/>

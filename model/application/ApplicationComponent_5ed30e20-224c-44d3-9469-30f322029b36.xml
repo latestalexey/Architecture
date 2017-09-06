@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auditing"
+    id="5ed30e20-224c-44d3-9469-30f322029b36"
+    documentation="Provides configurable (enable/disable) auditing for Interactions with FFFS."/>

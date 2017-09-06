@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Probabilistic Forecasting"
+    id="bf464e73"
+    documentation="a system which allows users to run and view probabilistic forecasts using ensemble data and provide these forecasts to customers in real-time."/>

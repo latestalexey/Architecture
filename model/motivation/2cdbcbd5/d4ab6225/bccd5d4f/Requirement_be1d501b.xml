@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_SC_7"
+    id="be1d501b"
+    documentation="As a security lead I need to understand the data life-cycle so that I can assure that the data is only used/stored appropriately for its intended purpose and thereby ensure compliance with legislation such as the Data Protection Act."/>

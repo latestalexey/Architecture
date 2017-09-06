@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dashboards, Alerts &amp; Reports"
+    id="a79b466c-ba40-4eb0-92a2-752d67f412e1"
+    documentation="Decision support, can be by exception – reporting where action required, information provided on regular and ad hoc basis. High user numbers, working with defined data sets"/>

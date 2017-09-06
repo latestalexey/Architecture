@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Water Resources Modeller"
+    id="2a1ed586"
+    documentation="Needs to model water availability and abstraction so that we can manage and regulate water resources effectively."/>

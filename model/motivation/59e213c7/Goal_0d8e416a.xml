@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resolution Time"
+    id="0d8e416a"
+    documentation="The time taken for an issue to be fixed from being reported."/>

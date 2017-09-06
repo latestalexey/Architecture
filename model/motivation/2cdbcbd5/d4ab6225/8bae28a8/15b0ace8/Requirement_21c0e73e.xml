@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_5"
+    id="21c0e73e"
+    documentation="As a system administrator I need system components to be independent of each other so that no single component can impact the performance or availability of any other component and compromise the overall availability of the system."/>

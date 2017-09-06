@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_BU_6"
+    id="7a6aa2d9"
+    documentation="As a system administrator I need backup failures to be immediately alerted to service management automatically so that failures can be corrected and the data backup can continue to completion."/>

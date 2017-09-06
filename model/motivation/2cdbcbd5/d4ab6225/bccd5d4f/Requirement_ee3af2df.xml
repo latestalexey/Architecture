@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_SC_5"
+    id="ee3af2df"
+    documentation="As a security lead I need the system to be monitored for unusual activity and maintain a record of events so that I can examine the detail of those events."/>

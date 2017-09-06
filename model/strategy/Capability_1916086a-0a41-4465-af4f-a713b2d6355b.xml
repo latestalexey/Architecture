@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trusted Sources / Apps"
+    id="1916086a-0a41-4465-af4f-a713b2d6355b"
+    documentation="Trusted Sources are a certified source for catalogued data items, which can be used as the data source for Data Factory components. &#xD;&#xA;Data scope is all data – structured and un-structured, therefore covering text, documents, streamed data, clickstream, social media, etc. etc.&#xD;&#xA;For the purposes of this solution&#xD;&#xA;The following source systems have currently been identified:&#xD;&#xA;•&#x9;EA Telemetry&#xD;&#xA;•&#x9;Met Office Forecasts&#xD;&#xA;•&#x9;Wavenet&#xD;&#xA;•&#x9;Reference Data &#xD;&#xA;"/>

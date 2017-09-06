@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CF_7"
+    id="5fb64bf3"
+    documentation="As a forecasting duty officer I need to approve forecasts before they are distributed (but to be able to override this approval in some circumstances) so that forecasts are validated for onward distribution without the approval impacting the timeliness of their distribution."/>

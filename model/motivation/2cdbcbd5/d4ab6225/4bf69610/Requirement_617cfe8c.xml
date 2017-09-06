@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_CN_4"
+    id="617cfe8c"
+    documentation="As a system administrator I need to know the extent to which system components can be modified and the likely effects of these modifications so that I can weigh up whether to request modifications to the 'out of the box' software."/>

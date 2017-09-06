@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_FC_6"
+    id="0d4ae955"
+    documentation="As a service manager I need the system to support integration with external RESTful APIs, particularly those offered by the main social media outlets, so that forecasting outputs can be made available through these channels."/>

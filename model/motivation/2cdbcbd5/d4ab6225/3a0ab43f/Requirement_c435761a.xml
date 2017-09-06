@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_TS_1"
+    id="c435761a"
+    documentation="As a system administrator I need a test environment that is representative of the live environment in which I can see the replication of system faults and can test new configurations, models, techniques or any system change (e.g. emergency fix, software upgrade, patch, firmware upgrade) so that I can safely diagnose, develop and test the system without affecting the performance of the live operational forecasting system."/>

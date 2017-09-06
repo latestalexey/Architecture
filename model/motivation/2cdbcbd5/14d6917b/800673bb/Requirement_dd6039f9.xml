@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CF_1"
+    id="dd6039f9"
+    documentation="As a forecasting duty officer I need to be able to see an overview of incident management information (e.g. in dashboard style) that is appropriate for my role and/or location so that I can view a summary of information in one place and prioritise my actions accordingly."/>

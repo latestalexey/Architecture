@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FO_2"
+    id="d9649170"
+    documentation="As a forecasting duty officer I need to create outputs that are a mixture of textual, graphical and map based information where the recipient can interact with the information being displayed (e.g. see data points on a hydrograph or zoom in/out on a map) so that I can communicate flood forecast information in a way in which the recipient is able to derive greater value by being able to interrogate the information."/>

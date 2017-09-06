@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_15"
+    id="5a3e6d19"
+    documentation="As a system administrator I need to be able to use information which shows the costs of running and using different components of the system so that I can understand how much each part of the system costs as part of the flood forecasting service."/>

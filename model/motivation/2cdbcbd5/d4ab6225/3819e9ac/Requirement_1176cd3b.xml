@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_TR_4"
+    id="1176cd3b"
+    documentation="As a service manager I need the training environment to be able to support the same level of performance and user concurrency as the live environment(s) so that we can conduct training that replicates large scale events."/>

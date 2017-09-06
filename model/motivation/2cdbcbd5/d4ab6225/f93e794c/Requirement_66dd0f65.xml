@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_BU_3"
+    id="66dd0f65"
+    documentation="As a system administrator I need the running of the backup to have no impact on the live environment(s) so that performance and availability are not affected when data backups are being run."/>

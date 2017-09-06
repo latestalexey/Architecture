@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catchment average data from HYRAD"
+    id="9cc1658a"
+    documentation="1.5&#x9;Data supplied by Met Office. Includes short range forecast, medium range forecast, actual, nowcast and MOSES products and temperature"/>

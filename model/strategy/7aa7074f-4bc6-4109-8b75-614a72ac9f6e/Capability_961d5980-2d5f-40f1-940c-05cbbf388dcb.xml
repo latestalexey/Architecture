@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Abstraction, Query, Retrieval and Data Presentation"
+    id="961d5980-2d5f-40f1-940c-05cbbf388dcb"
+    documentation="Generally referred to as the Semantic Layer within COTS toolsets e.g. SAP BusinessObjects Universes, IBM Cognos Framework Manager Packages, Power BI Content Packs, etc.&#xD;&#xA;This abstracts the logical business definition from the technical location of the data and presents the logical view of the data to the consumer. Facilitates the provision of a single reporting layer from multiple federated sources.&#xD;&#xA;This layer also allows for harmonised and approved business rules to be presented as consistent measures.&#xD;&#xA;"/>

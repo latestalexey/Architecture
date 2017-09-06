@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NFFS Webservice"
+    id="3ab572b0"
+    documentation="A portal that provides staff involved in flood incident management access to flood forecast outputs from the NFFS system and Met Office alerts –&#xD;&#xA;•&#x9;Met Office and Flood Forecasting Centre forecasts, alerts and warnings &#xD;&#xA;•&#x9;Approved forecasts produced by NFFS&#xD;&#xA;•&#x9;forecasting duty officers' comments on forecast quality&#xD;&#xA;•&#x9;flood guidance statements  &#xD;&#xA;•&#x9;regional forecast outlook statements &#xD;&#xA;•&#x9;standard and custom tide tables &#xD;&#xA;•&#x9;Soil Moisture Deficit data (MORECS)&#xD;&#xA;•&#x9;An archive since 2006 of all the above.&#xD;&#xA;"/>

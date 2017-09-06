@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FO_4"
+    id="6369ea96"
+    documentation="As a forecasting duty officer I need the system to automatically create Local Flood Outlooks for pre-defined geographical extents that show flood alerts &amp; warnings together with counts where thresholds are forecast to be exceeded, or have been exceeded (or are close to doing so), as well as catchment/sub-catchment flood risk information and forecaster narrative, so that this information can be provided to customers of the service including Area Incident Management and National Flood Forecasting Duty Manager."/>

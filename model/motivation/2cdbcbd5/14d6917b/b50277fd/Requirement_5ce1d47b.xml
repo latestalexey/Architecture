@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_10"
+    id="5ce1d47b"
+    documentation="As a forecasting duty officer I need to have automatic monitoring of both forecast accuracy (correct thresholds and peaks, including ensemble forecasts) and data quality so that I can understand the accuracy of the forecasts we have created and used."/>

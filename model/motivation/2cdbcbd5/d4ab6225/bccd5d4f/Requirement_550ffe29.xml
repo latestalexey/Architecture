@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_SC_4"
+    id="550ffe29"
+    documentation="As a security lead I need to see how the Supplier guarantees the integrity of the system data (e.g. after a system outage) so that users can be confident that forecasting data will not be compromised."/>

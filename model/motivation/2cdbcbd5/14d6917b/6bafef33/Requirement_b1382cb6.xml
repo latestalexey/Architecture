@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_16"
+    id="b1382cb6"
+    documentation="As a forecasting duty officer I need to be able to compare and interrogate gauge time series hydrological data (e.g. volume under hydrograph) so that I can get a better understanding of the hydrological system, troubleshoot real time performance issues and aid forecast performance improvement work."/>

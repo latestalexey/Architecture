@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_2"
+    id="d4ef0f47"
+    documentation="As a service manager I need the Supplier to be able to quickly provide a higher or lower service package for any element of the forecasting service so that the Authority can balance the cost of providing lower or higher levels against the criticality of an element during a period (e.g. Critical Package for bathing water quality forecasting during the summer or until further notice)."/>

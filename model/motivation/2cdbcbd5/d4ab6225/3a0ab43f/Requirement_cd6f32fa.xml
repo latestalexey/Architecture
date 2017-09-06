@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_TS_2"
+    id="cd6f32fa"
+    documentation="As a service manager I need proof of Supplier testing to be assured by the Authority for system testing and for performance, stress and volume testing so that I can be confident that the Supplier has thoroughly tested the system before user acceptance testing begins."/>

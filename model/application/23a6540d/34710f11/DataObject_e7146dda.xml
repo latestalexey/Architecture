@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grid-to-Grid ensemble data (Met Office HPC)"
+    id="e7146dda"
+    documentation="This is set to increase substantially this autumn (potentially to around 38 GB per day)."/>

@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Critical"
+    id="6a7e82e7"
+    documentation="Availability (per calendar month)&#xD;&#xA;99.99% (4.32 minutes per month)&#xD;&#xA;Reliability&#xD;&#xA;1 unplanned outage per year&#xD;&#xA;Recovery Time Objective&#xD;&#xA;Service RTO: 30 minutes&#xD;&#xA;Support Desk&#xD;&#xA;24 x 7 x 365&#xD;&#xA;Incident Priorities&#xD;&#xA;Total Failure = Priority 1 (see definitions below)&#xD;&#xA;Partial Failure = Priority 2&#xD;&#xA;"/>

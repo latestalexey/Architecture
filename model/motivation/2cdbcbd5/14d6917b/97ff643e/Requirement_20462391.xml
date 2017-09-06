@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_EF_2"
+    id="20462391"
+    documentation="As a forecasting duty officer I need to be able to view progress information on activities within the system (e.g. models running, data imports) so that I can use my time efficiently and report on or terminate activities (depending on user role capabilities) that are taking too long to complete or have failed."/>

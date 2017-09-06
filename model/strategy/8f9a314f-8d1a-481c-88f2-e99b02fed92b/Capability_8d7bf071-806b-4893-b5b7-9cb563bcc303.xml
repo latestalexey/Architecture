@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scheduling and Orchestration"
+    id="8d7bf071-806b-4893-b5b7-9cb563bcc303"
+    documentation="The tools, patterns and processes that manage the scheduling of activities that process the data end to end within the architecture so that users have access to the required information based on high-quality and timely data."/>

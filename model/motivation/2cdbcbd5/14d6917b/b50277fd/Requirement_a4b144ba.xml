@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_SQ_6"
+    id="a4b144ba"
+    documentation="As a system administrator I need to be able to access current and historic information on the numbers and details of data feeds imported, models run, exports created and data archived on a per day basis so that I can determine the trends of these aspects of system activity and how they affect the overall performance of the system."/>

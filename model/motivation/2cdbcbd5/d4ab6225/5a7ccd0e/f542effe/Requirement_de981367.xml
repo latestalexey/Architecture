@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_EN_2"
+    id="de981367"
+    documentation="As a system administrator I need the system to support the numbers of data feeds imported, models run, exports created and data archived both on a ‘business as usual’ day and during a flood incident (see ‘Capacity and scalability’) so that the system will be able to meet the capacity needs of staff who carry out their daily forecasting activities."/>

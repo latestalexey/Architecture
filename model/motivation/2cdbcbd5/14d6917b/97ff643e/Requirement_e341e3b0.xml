@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_EF_1"
+    id="e341e3b0"
+    documentation="As a system administrator I need the system to self-monitor performance related to the service and alert different users about different information (based on their role) when system performance thresholds are exceeded so that I can determine the appropriate action to take."/>

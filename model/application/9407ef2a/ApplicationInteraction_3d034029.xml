@@ -1,0 +1,5 @@
+<archimate:ApplicationInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LDAP"
+    id="3d034029"
+    documentation="Lightweight Directory Access Protocol&#xD;&#xA;&#xD;&#xA;An open, vendor-neutral, industry standard application protocol for accessing and maintaining distributed directory information services. A common usage of LDAP is to provide a single sign on where one password for a user is shared between many services."/>

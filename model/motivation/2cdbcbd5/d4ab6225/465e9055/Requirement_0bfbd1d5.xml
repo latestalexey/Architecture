@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AU_2"
+    id="0bfbd1d5"
+    documentation="As a service manager I need the system to record all changes to data that we have defined as auditable so that I can see who changed what and when."/>

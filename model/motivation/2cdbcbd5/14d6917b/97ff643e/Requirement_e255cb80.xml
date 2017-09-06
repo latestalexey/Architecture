@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_EF_7"
+    id="e255cb80"
+    documentation="As a system administrator I need the system to allow changes to be made to certain elements in one central location (e.g. flood warning/operational thresholds), which could then be used to change these elements on other Authority systems automatically (i.e. National Telemetry System and Future Flood Warning System), so that simple changes can be automated across the Authority once instead of being done manually multiple times."/>

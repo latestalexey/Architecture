@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_AD_4"
+    id="e183bf5e"
+    documentation="As a system administrator I need to be able to specify the frequency of automatic tasks in the system including model runs based on business rules (e.g. when thresholds are exceeded or warnings issued) so that forecasts are automatically created at an appropriate frequency for the prevailing conditions ."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CN_5"
+    id="b57761a0"
+    documentation="As a system administrator I need to complete routine configuration work that is defined by the Authority (such as threshold value changes) quickly and with minimal effort so that I don't have to take on testing or implementation activities that are too cumbersome for the change being made."/>

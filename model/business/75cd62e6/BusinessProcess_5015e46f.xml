@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5 - Review Model Outputs"
+    id="5015e46f"
+    documentation="Once the forecasting model runs are complete they are automatically sent to the ‘NFFS Webservice’ for internal customers to view. Forecasting duty officers review the raw model outputs and provide an interpreted forecast verbally or in some cases by creating standalone manually edited products outside of NFFS. Alternatively the forecasting duty officer may chose to run ‘what if’ scenarios on variations of input data."/>

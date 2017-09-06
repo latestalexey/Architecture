@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HYRAD"
+    id="5d186254"
+    documentation="Hydrological Radar&#xD;&#xA;&#xD;&#xA;Display system developed by the Centre for Ecology and Hydrology (CEH).  It allows users to view actual and forecast rainfall data from the Met Office, providing essential information for effective flood risk management."/>

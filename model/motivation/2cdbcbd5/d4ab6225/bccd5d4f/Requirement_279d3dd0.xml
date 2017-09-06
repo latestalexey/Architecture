@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_SC_9"
+    id="279d3dd0"
+    documentation="As a security lead I need to understand the data transfer protocols that the system will use so that I can have assurance that the integrity and/or confidentiality of the data is maintained between source and destination."/>

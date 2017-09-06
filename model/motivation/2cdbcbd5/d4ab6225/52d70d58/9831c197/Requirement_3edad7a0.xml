@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_ST_10"
+    id="3edad7a0"
+    documentation="As a service manager I need to use data standards that are consistent with other Authority systems where national/international standards cannot be used so that I can use the data in Authority corporate reporting without having to edit or transform it."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_OF_13"
+    id="30844add"
+    documentation="As a water resources modeller I need to run water resource models at a daily time step and produce ensemble flow projections from climate ensembles up to 3 years ahead so that I can manage drought scenarios."/>

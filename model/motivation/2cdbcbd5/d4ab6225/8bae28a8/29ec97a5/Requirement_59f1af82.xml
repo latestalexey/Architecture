@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_11"
+    id="59f1af82"
+    documentation="As a system administrator I need a system that will be available continuously so that I will be able to carry on working without any loss of data if it suffers an unplanned outage."/>

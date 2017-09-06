@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_TR_2"
+    id="58409711"
+    documentation="As a service manager I need a training environment that is easy to set up and which uses real data from historic events to replicate as closely as possible the live system so that the training of forecasting duty officers is realistic and can be used to improve their competencies."/>

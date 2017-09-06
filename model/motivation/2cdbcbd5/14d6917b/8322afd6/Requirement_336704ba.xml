@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FI_1"
+    id="336704ba"
+    documentation="As a forecasting duty officer I need to be able to import data from a variety of telemetry sources (e.g. rain gauges, rivers, estuaries and coastal data) into our flood forecasting models and techniques (see 'Models we currently use') so that this information is used to create or improve my flood forecasts."/>

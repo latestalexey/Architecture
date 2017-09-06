@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_ST_12"
+    id="1b3044f6"
+    documentation="As a system administrator I need to be able to edit the content of lists used in screens presented to users so that I can make changes to the lists if their contents need to be amended."/>

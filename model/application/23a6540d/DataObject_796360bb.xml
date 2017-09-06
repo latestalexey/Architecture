@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gridded Data"
+    id="796360bb"
+    documentation="Raster data&#xD;&#xA;&#xD;&#xA;Result of converting scattered individual data points of observed data into a regular grid (or ’raster’) of calculated, hypothetical values."/>

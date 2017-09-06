@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FA_2"
+    id="0dbbde29"
+    documentation="As a forecasting duty officer I need the system to provide an interactive map-based graphical user interface (e.g. point and click, multiple play back of sequential time series, zoom, pan, thumbnail) and create time series hydrographs and user defined files/documents to export to other interfaces/systems/platforms so that I can use and share the information used in forecasting models (e.g. catchment average/max) and other areas of work."/>

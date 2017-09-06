@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MetaData Hub"
+    id="14715d83-e015-4a71-b037-be65dcb676ce"
+    documentation="The Hub is a logical store of metadata generated and required by the Environment Agency to manage and operate FFFS. The metadata is reported and analysed through the information access components."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_DR_2"
+    id="a543784c"
+    documentation="As a system administrator I need to know what is the maximum data loss users might experience in a complete system failure so that we can build this figure (known as the Recovery Point Objective or RPO) into our business continuity plans."/>

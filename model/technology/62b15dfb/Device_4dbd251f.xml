@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HPC"
+    id="4dbd251f"
+    documentation="High Performance Computer&#xD;&#xA;&#xD;&#xA;Met Office supercomputer used to process Grid-to-Grid ensemble data."/>

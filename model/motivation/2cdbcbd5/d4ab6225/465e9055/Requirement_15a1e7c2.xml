@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AU_4"
+    id="15a1e7c2"
+    documentation="As a service manager I need audit logs to be held on-line for a configurable period and then be archived as a dataset (which will also have a configurable retention period) so that I have immediate access to short term data changes and can get access to longer term changes if I need to."/>

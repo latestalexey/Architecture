@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_FW_2"
+    id="fe35a3b2"
+    documentation="As a flood warning duty officer I need the system to automatically pre-populate the text/data on flood forecast information that will be used in flood alert/warning messages, which can be edited by the forecasting duty officer and then exported to the Authority's flood warning system (FFWS) so that this text can be used as part of the flood alert/warning message that is sent out."/>

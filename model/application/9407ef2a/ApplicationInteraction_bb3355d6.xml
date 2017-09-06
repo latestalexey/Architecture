@@ -1,0 +1,5 @@
+<archimate:ApplicationInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAML"
+    id="bb3355d6"
+    documentation="Security Assertion Markup Language 2.0&#xD;&#xA;&#xD;&#xA;A version of the SAML standard for exchanging authentication and authorization data between security domains."/>

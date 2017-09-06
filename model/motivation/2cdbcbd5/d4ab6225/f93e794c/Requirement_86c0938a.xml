@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_BU_4"
+    id="86c0938a"
+    documentation="As a system administrator I need all data backups to be stored in a secure location, physically separated from the live environment(s), for a retention period agreed with the Authority so that data backups are available for analysis or restore and are independently resilient of the live environment(s)."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CN_7"
+    id="536ae10d"
+    documentation="As a system administrator I need to be able to configure the level of access and functionality for each user profile (including adding, removing and changing profiles) using predefined configurable templates for each user type so that users are restricted from accessing functionality which is not appropriate for their role."/>

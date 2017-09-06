@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_PP_1"
+    id="07cee1fc"
+    documentation="As a service manager I need the system's account management capabilities to meet the criteria set out in the 'Account Management' section of Authority Password Policy (Ref 1) so that I am compliant with the Authority's Password Policy."/>

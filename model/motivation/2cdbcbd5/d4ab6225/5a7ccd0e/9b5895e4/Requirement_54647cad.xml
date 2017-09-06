@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_EN_12"
+    id="54647cad"
+    documentation="As a system administrator I need the system to be able to record, log and manage the distribution of licences, especially where there is a limit to licence use, so that we have a record of all licences used and are compliant with licence use and restrictions."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_CN_6"
+    id="7dd86dd8"
+    documentation="As a system administrator I need to be able to configure different user profiles (see 'Types of User') and to be able to set up new user profiles for new types of user so that the different roles that staff (and external parties) have can be represented in the system."/>

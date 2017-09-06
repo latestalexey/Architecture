@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_II_6"
+    id="1edb05ac"
+    documentation="As a forecasting duty officer I need to overlay GIS data with my forecast inundation area grids to determine the impacts from the forecast flooding and then summarise these impacts as a map with system generated text so that I can forecast the impacts of flooding to people and property within a geographical area as well as the extent of flooding."/>

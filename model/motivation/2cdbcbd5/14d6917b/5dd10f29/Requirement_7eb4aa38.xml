@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_AD_5"
+    id="7eb4aa38"
+    documentation="As a system administrator I need to be able to add, modify, delete, disable and re-enable users on the system so that I can provide login details to staff and external parties (such as consultants who configure models on our behalf) and give them the appropriate level of access to the system."/>

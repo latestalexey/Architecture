@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Data Hub"
+    id="2e1aae33-7936-4014-8add-673472a12118"
+    documentation="Master Data (as distinct from reference data) holds a unique position within the reference architecture in that, depending on the Master Data Strategy, it can support both operational systems as well as other information ecosystem components, in other words it has default bi-directional capability.&#xD;&#xA;Master Data is defined as representing the standardised key business entities that support operational data such as stations, locations, conversion coefficients.  It also supports informational data by representing key dimensions against which analytics and reporting is accomplished. The hub is a data store with read-write bi-directional capability, which is the Trusted Source providing a high quality single version of the truth for Master Data.  Where the Hub supports operational applications, it must also support high volume transaction rates and have operational resilience.&#xD;&#xA;"/>

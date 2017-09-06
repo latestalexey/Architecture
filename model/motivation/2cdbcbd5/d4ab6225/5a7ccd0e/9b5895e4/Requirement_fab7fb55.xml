@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_EN_9"
+    id="fab7fb55"
+    documentation="As a system administrator I need the live environment(s) to be separated from other environments so that changes that adversely affect any other environments (e.g. Training) do not impact the live environment."/>

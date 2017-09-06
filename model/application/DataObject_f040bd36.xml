@@ -1,0 +1,14 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inbound Data"
+    id="f040bd36">
+  <properties
+      key="Col1"
+      value="int"/>
+  <properties
+      key="Col2"
+      value="nvarchar(50)"/>
+  <properties
+      key="Col3"
+      value="bigint"/>
+</archimate:DataObject>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forecasting Activities"
+    id="0b9fcc88"
+    documentation="a system which allows interactive graphical and map based interfaces to display and use data and forecasts, prioritises tasks for users and allows users to run the models and techniques they need, when they need them, from wherever they are."/>

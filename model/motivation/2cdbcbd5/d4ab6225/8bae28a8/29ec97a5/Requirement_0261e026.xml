@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_AV_12"
+    id="0261e026"
+    documentation="As a system administrator I need a method of allowing users to carry on using the system during a planned outage (e.g. system patch or software upgrade) so that the forecasting service is not impacted by planned outages."/>

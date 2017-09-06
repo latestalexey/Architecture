@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_FC_5"
+    id="50f7c3d5"
+    documentation="As a service manager I need system components to report performance data via the GDS Performance Platform (Ref 15) so that we are compliant with the GDS requirements for performance reporting."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_OF_12"
+    id="5f8569c4"
+    documentation="As a water resources modeller I need to run water resource models at a daily time step and produce ensemble flow forecasts from 15 day ensemble ECMWF model output so that I can assess and report on the effects of climate change in the environment."/>

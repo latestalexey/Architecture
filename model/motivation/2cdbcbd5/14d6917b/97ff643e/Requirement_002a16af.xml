@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UN_EF_4"
+    id="002a16af"
+    documentation="As a forecasting duty officer I need the system to automatically update tools and techniques (e.g. updating level to level correlations) and to highlight the information that has been changed so that forecasters can be released from arduous manual tasks and can post-process the information that has changed."/>

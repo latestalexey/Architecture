@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4 - Run Models"
+    id="26bf4d12"
+    documentation="Various forecasting models are used to process the different types of data inputs – see ‘Models we currently use’ for a complete list."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NF_EN_7"
+    id="200e3513"
+    documentation="As a service manager I need the system to be able to pass information to and from the Authority's warning system (FFWS) and for the interoperability and information to be configurable depending on the type of forecasting so that the forecasting service can link with the warning service where appropriate to do so (e.g. flooding, but not limited to this type of forecast)."/>

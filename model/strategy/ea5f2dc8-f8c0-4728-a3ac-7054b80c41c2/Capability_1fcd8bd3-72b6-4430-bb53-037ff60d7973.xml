@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Access"
+    id="1fcd8bd3-72b6-4430-bb53-037ff60d7973"
+    documentation="Provides components used to manage and control physical access to the data stores."/>
